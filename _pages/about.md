@@ -81,14 +81,18 @@ Previously, I worked on the genomics of the wheat stripe rust pathogen (*Puccini
 </table>
 
 <div style="border-top: 2px solid #e0e0e0; margin: 2rem 0; padding-top: 0.5rem;">
+  
 <h2 style="margin-top: 0;">📊 By the Numbers</h2>
 </div>
 
 <table>
 <tbody>
-<tr><td><strong>27+</strong> publications</td><td><strong>6</strong> as first-author</td></tr>
+<tr><td><strong>27+</strong> publications</td><td><strong>11</strong> as first-author</td></tr>
+<tr><td><strong>6</strong> publications</td><td> as (co-)corresponding author</td></tr>
 <tr><td><strong>Nature Genetics</strong></td><td>co-author (2025)</td></tr>
 <tr><td><strong>Nature Communications</strong></td><td>co-author (2023)</td></tr>
+<tr><td><strong>Peer-reviewer</strong></td><td><strong>over 18</strong> journals</td></tr>
+<tr><td>Supervised students</td><td><strong>6</strong> Master</td></tr>
 <tr><td><strong>12</strong> years in research</td><td><strong>3</strong> countries (CN, US, UK)</td></tr>
 <tr><td><strong>16</strong> GitHub repositories</td><td><a href="https://github.com/chongjing">github.com/chongjing</a></td></tr>
 </tbody>
