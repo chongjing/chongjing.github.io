@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<div markdown="1" style="display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 2rem; flex-wrap: wrap;">
+<div style="display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 2rem; flex-wrap: wrap;">
 
-<div markdown="1" style="flex: 1; min-width: 300px;">
+<div style="flex: 1; min-width: 300px;">
 
 ## Chongjing Xia (夏崇靖)
 
@@ -28,10 +28,11 @@ Previously, I worked on the genomics of the wheat stripe rust pathogen (*Puccini
 </div>
 
 </div>
+</div>
 
----
+<br><hr><br>
 
-## 🔬 Research Visualisations
+<h2>🔬 Research Visualisations</h2>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin: 1.5rem 0;">
 
@@ -63,25 +64,30 @@ Previously, I worked on the genomics of the wheat stripe rust pathogen (*Puccini
 </div>
 </details>
 
----
+<br><hr><br>
 
-## 📚 Research Areas
+<h2>📚 Research Areas</h2>
 
-| Area | Focus |
-|------|-------|
-| **Wheat Stripe Rust Genomics** | Genome assembly, population genomics, virulence characterisation, pathogen migration |
-| **3D Genomics & Chromatin** | Hi-C, chromatin architecture in fungal pathogens, epigenetic regulation |
-| **Plant-Microbe Interactions** | Symbiosis, nematode biology, spatial transcriptomics |
-| **Wheat Resistance Genetics** | QTL mapping, NLR gene discovery, marker-assisted breeding |
-| **Computational Methods** | Deep learning phenotyping, genome assembler benchmarking, RAG pipelines |
+<table>
+<thead><tr><th>Area</th><th>Focus</th></tr></thead>
+<tbody>
+<tr><td><strong>Wheat Stripe Rust Genomics</strong></td><td>Genome assembly, population genomics, virulence characterisation, pathogen migration</td></tr>
+<tr><td><strong>3D Genomics &amp; Chromatin</strong></td><td>Hi-C, chromatin architecture in fungal pathogens, epigenetic regulation</td></tr>
+<tr><td><strong>Plant-Microbe Interactions</strong></td><td>Symbiosis, nematode biology, spatial transcriptomics</td></tr>
+<tr><td><strong>Wheat Resistance Genetics</strong></td><td>QTL mapping, NLR gene discovery, marker-assisted breeding</td></tr>
+<tr><td><strong>Computational Methods</strong></td><td>Deep learning phenotyping, genome assembler benchmarking, RAG pipelines</td></tr>
+</tbody>
+</table>
 
----
+<br><hr><br>
 
-## 📊 By the Numbers
+<h2>📊 By the Numbers</h2>
 
-| | |
-|---|---|
-| **27+** publications | **6** as first-author |
-| **Nature Genetics** | co-author (2025) |
-| **Nature Communications** | co-author (2023) |
-| **12** years in research | **3** countries (CN, US, UK) |
+<table>
+<tbody>
+<tr><td><strong>27+</strong> publications</td><td><strong>6</strong> as first-author</td></tr>
+<tr><td><strong>Nature Genetics</strong></td><td>co-author (2025)</td></tr>
+<tr><td><strong>Nature Communications</strong></td><td>co-author (2023)</td></tr>
+<tr><td><strong>12</strong> years in research</td><td><strong>3</strong> countries (CN, US, UK)</td></tr>
+</tbody>
+</table>
