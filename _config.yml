@@ -37,7 +37,6 @@ author:
 
 # Site Build
 markdown: kramdown
-theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
   - jekyll-include-cache
