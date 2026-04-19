@@ -7,6 +7,9 @@ url: "https://chongjing.github.io"
 baseurl: ""
 repository: "chongjing/chongjing.github.io"
 
+# Site Settings - Logo
+logo: "/images/profile.png"
+
 # Site Author
 author:
   name: "Chongjing Xia (夏崇靖)"

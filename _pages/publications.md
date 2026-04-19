@@ -46,10 +46,10 @@ author_profile: true
     </div>
     <div>
       <h3 style="margin: 0 0 0.3rem 0; font-size: 1rem; line-height: 1.4;">
-        <a href="{{ post.paperurl }}" target="_blank" style="color: #333; text-decoration: none;">{{ post.title }}</a>
+        <a href="{{ post.paperurl }}" target="_blank" style="color: #333; text-decoration: none;">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a>
       </h3>
       <p style="margin: 0 0 0.25rem 0; font-size: 0.88rem; color: #666; line-height: 1.4;">
-        {{ post.authors }}
+        {{ post.authors | markdownify | remove: '<p>' | remove: '</p>' }}
       </p>
       <p style="margin: 0; font-size: 0.85rem;">
         <em style="color: #555;">{{ post.venue }}</em>

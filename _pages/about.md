@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<div class="hero-section" style="display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 2rem; flex-wrap: wrap;">
+<div markdown="1" style="display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 2rem; flex-wrap: wrap;">
 
-<div style="flex: 1; min-width: 300px;">
+<div markdown="1" style="flex: 1; min-width: 300px;">
 
 ## Chongjing Xia (夏崇靖)
 
@@ -21,10 +21,10 @@ I am a bioinformatician with a background in plant pathology and genomics. My re
 Previously, I worked on the genomics of the wheat stripe rust pathogen (*Puccinia striiformis* f. sp. *tritici*) at Washington State University and Southwest University of Science and Technology, where I led chromosome-level genome assemblies, population genomic studies, and virulence surveillance across China and the US.
 
 <div style="margin-top: 1rem; display: flex; gap: 1rem; flex-wrap: wrap;">
-<a href="mailto:cx264@cam.ac.uk" class="btn btn--primary" style="padding: 0.4rem 1rem; border-radius: 4px; text-decoration: none; color: #fff; background: #007bff; font-size: 0.9rem;">✉ Email</a>
-<a href="https://scholar.google.com/citations?user=nU0lJq4AAAAJ&hl=en" class="btn" style="padding: 0.4rem 1rem; border-radius: 4px; text-decoration: none; color: #333; border: 1px solid #ccc; font-size: 0.9rem;">🎓 Google Scholar</a>
-<a href="https://github.com/chongjing" class="btn" style="padding: 0.4rem 1rem; border-radius: 4px; text-decoration: none; color: #333; border: 1px solid #ccc; font-size: 0.9rem;">🐙 GitHub</a>
-<a href="https://orcid.org/0000-0002-4865-7920" class="btn" style="padding: 0.4rem 1rem; border-radius: 4px; text-decoration: none; color: #333; border: 1px solid #ccc; font-size: 0.9rem;">🆔 ORCID</a>
+<a href="mailto:cx264@cam.ac.uk" style="padding: 0.4rem 1rem; border-radius: 4px; text-decoration: none; color: #fff; background: #007bff; font-size: 0.9rem;">✉ Email</a>
+<a href="https://scholar.google.com/citations?user=nU0lJq4AAAAJ&hl=en" style="padding: 0.4rem 1rem; border-radius: 4px; text-decoration: none; color: #333; border: 1px solid #ccc; font-size: 0.9rem;">🎓 Google Scholar</a>
+<a href="https://github.com/chongjing" style="padding: 0.4rem 1rem; border-radius: 4px; text-decoration: none; color: #333; border: 1px solid #ccc; font-size: 0.9rem;">🐙 GitHub</a>
+<a href="https://orcid.org/0000-0002-4865-7920" style="padding: 0.4rem 1rem; border-radius: 4px; text-decoration: none; color: #333; border: 1px solid #ccc; font-size: 0.9rem;">🆔 ORCID</a>
 </div>
 
 </div>
@@ -45,7 +45,7 @@ Previously, I worked on the genomics of the wheat stripe rust pathogen (*Puccini
   <img src="/images/PstCYR34.3D.genome.gif" alt="3D Genome Architecture — Pst CYR34" style="width: 100%; display: block;">
   <div style="position: absolute; bottom: 0; left: 0; right: 0; padding: 12px 16px; background: linear-gradient(transparent, rgba(0,0,0,0.8)); color: #fff;">
     <strong style="font-size: 0.95rem;">3D Genome Architecture</strong><br>
-    <span style="font-size: 0.8rem; opacity: 0.85;">Chromatin folding in <em>Puccinia striiformis</em> f. sp. <em>tritici</em> (CYR34)</span>
+    <span style="font-size: 0.8rem; opacity: 0.85;">Chromatin folding in <i>Puccinia striiformis</i> f. sp. <i>tritici</i> (CYR34)</span>
   </div>
 </div>
 
