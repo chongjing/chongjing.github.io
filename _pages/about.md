@@ -11,7 +11,7 @@ redirect_from:
 
 <div style="flex: 1; min-width: 300px;">
 
-## Chongjing Xia (夏崇靖)
+<h1>Chongjing Xia (夏崇靖)</h1>
 
 **Bioinformatician / Research Associate**  
 [Crop Science Centre](https://www.cropsciencecentre.org/staff/chongjing-xia/), University of Cambridge
@@ -89,5 +89,6 @@ Previously, I worked on the genomics of the wheat stripe rust pathogen (*Puccini
 <tr><td><strong>Nature Genetics</strong></td><td>co-author (2025)</td></tr>
 <tr><td><strong>Nature Communications</strong></td><td>co-author (2023)</td></tr>
 <tr><td><strong>12</strong> years in research</td><td><strong>3</strong> countries (CN, US, UK)</td></tr>
+<tr><td><strong>16</strong> GitHub repositories</td><td><a href="https://github.com/chongjing">github.com/chongjing</a></td></tr>
 </tbody>
 </table>
