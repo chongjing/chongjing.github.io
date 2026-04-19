@@ -30,9 +30,9 @@ Previously, I worked on the genomics of the wheat stripe rust pathogen (*Puccini
 </div>
 </div>
 
-<br><hr><br>
-
-<h2>🔬 Research Visualisations</h2>
+<div style="border-top: 2px solid #e0e0e0; margin: 2rem 0; padding-top: 0.5rem;">
+<h2 style="margin-top: 0;">🔬 Research Visualisations</h2>
+</div>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin: 1.5rem 0;">
 
@@ -64,9 +64,9 @@ Previously, I worked on the genomics of the wheat stripe rust pathogen (*Puccini
 </div>
 </details>
 
-<br><hr><br>
-
-<h2>📚 Research Areas</h2>
+<div style="border-top: 2px solid #e0e0e0; margin: 2rem 0; padding-top: 0.5rem;">
+<h2 style="margin-top: 0;">📚 Research Areas</h2>
+</div>
 
 <table>
 <thead><tr><th>Area</th><th>Focus</th></tr></thead>
@@ -79,9 +79,9 @@ Previously, I worked on the genomics of the wheat stripe rust pathogen (*Puccini
 </tbody>
 </table>
 
-<br><hr><br>
-
-<h2>📊 By the Numbers</h2>
+<div style="border-top: 2px solid #e0e0e0; margin: 2rem 0; padding-top: 0.5rem;">
+<h2 style="margin-top: 0;">📊 By the Numbers</h2>
+</div>
 
 <table>
 <tbody>
