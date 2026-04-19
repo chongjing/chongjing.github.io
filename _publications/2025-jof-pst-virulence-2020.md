@@ -8,8 +8,8 @@ date: 2025-01-01
 venue: "Journal of Fungi"
 paperurl: "https://doi.org/10.3390/jof11060447"
 pdfurl: "/files/publications/10.10-JoF-<i>Pst</i>virulence.pdf"
-citation: "Huang J†, Zhang X†, Tan W†, Wu Y, Xu H, Wang S, Mehmood S, Zhou X, Yang S, Wang M, Chen X, Chen WQ, Liu TG, Li X*, <b>Xia CJ*</b> (2025). Virulence Characterization of <i>Puccinia striiformis</i> f. sp. <i>tritici</i> in China in 2020 Using Wheat Yr Single-Gene Lines. <i>Journal of Fungi</i>."
+citation: "Huang J†, Zhang X†, Tan W†, Wu Y, Xu H, Wang S, Mehmood S, Zhou X, Yang S, Wang M, Chen X, Chen WQ, Liu TG, Li X*, Xia CJ* (2025). Virulence Characterization of <i>Puccinia striiformis</i> f. sp. <i>tritici</i> in China in 2020 Using Wheat Yr Single-Gene Lines. <i>Journal of Fungi</i>."
 role: "corresponding"
-authors: "Huang J†, Zhang X†, Tan W†, Wu Y, Xu H, Wang S, Mehmood S, Zhou X, Yang S, Wang M, Chen X, Chen WQ, Liu TG, Li X*, <b>Xia CJ*</b>"
+authors: "Huang J†, Zhang X†, Tan W†, Wu Y, Xu H, Wang S, Mehmood S, Zhou X, Yang S, Wang M, Chen X, Chen WQ, Liu TG, Li X*, Xia CJ*"
 doi: "10.3390/jof11060447"
 ---
