@@ -22,21 +22,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:cx264@cam.ac.uk"
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar ai-fw"
-      url: "https://scholar.google.com/citations?user=nU0lJq4AAAAJ&hl=en"
-    - label: "ORCID"
-      icon: "ai ai-orcid ai-fw"
-      url: "https://orcid.org/0000-0002-4865-7920"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/chongjing"
     - label: "Affiliation"
       icon: "fas fa-fw fa-building-columns"
       url: "https://www.cropsciencecentre.org/staff/chongjing-xia/"
-  # Scholar / ORCID for sidebar
-  scholar: "nU0lJq4AAAAJ"
-  orcid: "0000-0002-4865-7920"
 
 # Site Build
 markdown: kramdown
