@@ -29,12 +29,6 @@ Previously, I worked on the genomics of the wheat stripe rust pathogen (*Puccini
 
 </div>
 
-<div style="flex: 0 0 280px; text-align: center;">
-<img src="/images/profile.png" alt="Chongjing Xia" style="width: 240px; height: 240px; object-fit: cover; border-radius: 50%; border: 4px solid #eee; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-</div>
-
-</div>
-
 ---
 
 ## 🔬 Research Visualisations

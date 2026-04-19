@@ -7,17 +7,17 @@ url: "https://chongjing.github.io"
 baseurl: ""
 repository: "chongjing/chongjing.github.io"
 
-# Site Settings - Logo
-logo: "/images/profile.png"
-
 # Site Author
 author:
   name: "Chongjing Xia (夏崇靖)"
+  avatar: "profile.png"
   bio: "Bioinformatician/Research Associate at the University of Cambridge. I develop and apply computational approaches to understand plant-pathogen interactions, fungal genomics, and crop disease resistance."
   location: "Cambridge, UK"
   employer: "University of Cambridge / Crop Science Centre"
-  avatar: "/images/profile.png"
   email: "cx264@cam.ac.uk"
+  googlescholar: "https://scholar.google.com/citations?user=nU0lJq4AAAAJ&hl=en"
+  orcid: "https://orcid.org/0000-0002-4865-7920"
+  github: "chongjing"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
