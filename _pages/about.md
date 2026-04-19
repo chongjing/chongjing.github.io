@@ -13,8 +13,9 @@ redirect_from:
 
 <h1>Chongjing Xia (夏崇靖)</h1>
 
-**Bioinformatician / Research Associate**  
-[Crop Science Centre](https://www.cropsciencecentre.org/staff/chongjing-xia/), University of Cambridge
+<p><strong>Bioinformatician / Research Associate</strong>
+  
+<a href="https://www.cropsciencecentre.org/staff/chongjing-xia/">Crop Science Centre</a>, University of Cambridge</p>
 
 I am a bioinformatician with a background in plant pathology and genomics. My research integrates computational and statistical methods to understand plant–pathogen interactions, with a focus on fungal genomics, population biology, and crop disease resistance. I develop and apply approaches spanning genome assembly, population genomics, transcriptomics, spatial biology, and deep learning for phenotyping.
 
