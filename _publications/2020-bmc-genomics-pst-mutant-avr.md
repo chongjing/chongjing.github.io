@@ -8,8 +8,8 @@ date: 2020-01-01
 venue: "BMC Genomics"
 paperurl: "https://doi.org/10.1186/s12864-020-6677-y"
 pdfurl: "/files/publications/11.13-BMCGenomics-<i>Pst</i>mutantAVR.pdf"
-citation: "Li Y, Xia CJ, Wang M, Yin C, Chen XM* (2020). Whole-genome sequencing of <i>Puccinia striiformis</i> f. sp. <i>tritici</i> mutant isolates identifies avirulence gene candidates. <i>BMC Genomics</i>."
+citation: "Li Y, **Xia CJ**, Wang M, Yin C, Chen XM† (2020). Whole-genome sequencing of <i>Puccinia striiformis</i> f. sp. <i>tritici</i> mutant isolates identifies avirulence gene candidates. <i>BMC Genomics</i>."
 role: "co-first"
-authors: "Li Y, Xia CJ, Wang M, Yin C, Chen XM*"
+authors: "Li Y, **Xia CJ**, Wang M, Yin C, Chen XM†"
 doi: "10.1186/s12864-020-6677-y"
 ---

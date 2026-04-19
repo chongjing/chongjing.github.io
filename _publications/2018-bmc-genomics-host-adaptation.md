@@ -8,8 +8,8 @@ date: 2018-01-01
 venue: "BMC Genomics"
 paperurl: "https://doi.org/10.1186/s12864-018-5041-y"
 pdfurl: "/files/publications/10.1-BMCGenomics-2018.pdf"
-citation: "Xia CJ, Wang M, Yin C, Cornejo OE, Hulbert SH, Chen XM* (2018). Genomic insights into host adaptation between the wheat stripe rust pathogen and the barley stripe rust pathogen. <i>BMC Genomics</i>."
+citation: "**Xia CJ**, Wang M, Yin C, Cornejo OE, Hulbert SH, Chen XM† (2018). Genomic insights into host adaptation between the wheat stripe rust pathogen and the barley stripe rust pathogen. <i>BMC Genomics</i>."
 role: "first-author"
-authors: "Xia CJ, Wang M, Yin C, Cornejo OE, Hulbert SH, Chen XM*"
+authors: "**Xia CJ**, Wang M, Yin C, Cornejo OE, Hulbert SH, Chen XM†"
 doi: "10.1186/s12864-018-5041-y"
 ---

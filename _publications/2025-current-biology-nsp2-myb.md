@@ -8,8 +8,8 @@ date: 2025-01-01
 venue: "Current Biology"
 paperurl: "https://doi.org/10.1016/j.cub.2025.01.047"
 pdfurl: "/files/publications/11.01-NSP2-MYB.pdf"
-citation: "Gao JP, Xia CJ, Chiu CH, et al., Wang E, Murray JD, Oldroyd GED (2025). An NSP2-MYB module orchestrates flavonoid biosynthesis and nodule symbiosis. <i>Current Biology</i>."
+citation: "Gao JP, **Xia CJ**, Chiu CH, et al., Wang E, Murray JD, Oldroyd GED (2025). An NSP2-MYB module orchestrates flavonoid biosynthesis and nodule symbiosis. <i>Current Biology</i>."
 role: "co-author"
-authors: "Gao JP, Xia CJ, Chiu CH, et al., Wang E, Murray JD, Oldroyd GED"
+authors: "Gao JP, **Xia CJ**, Chiu CH, et al., Wang E, Murray JD, Oldroyd GED"
 doi: "10.1016/j.cub.2025.01.047"
 ---
